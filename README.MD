@@ -1,12 +1,19 @@
 # ⏱️ Cronômetro
 
-![GitHub repo size](https://img.shields.io/github/repo-size/matheusccp2/cronometro?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/matheusccp2/cronometro?style=for-the-badge)
-
-<img src="./src/images/img-projeto.png" alt="Imagem do Projeto" width="70%">
+<img src="./src/images/img-projeto.png" alt="Imagem do Projeto" width="80%">
 
 
 > Projeto criado durante o curso de [JavaScript e TypeScript](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/), ministrado por: [Luiz Otávio Miranda](https://github.com/luizomf)
+
+## 👾 Tecnologias utilizadas
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+</div>
 
 ### Ajustes e melhorias
 
